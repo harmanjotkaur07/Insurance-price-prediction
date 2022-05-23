@@ -8,7 +8,7 @@ Created on Thu Dec 16 14:18:09 2021
 import pandas as pd
 import numpy as np
 
-df=pd.read_csv(r"C:\Users\lenovo\OneDrive\Desktop\harman's folder\ML AND AI\insurance.csv")
+df=pd.read_csv(r"insurance.csv")
  
 # Simple Linear Regression
 
